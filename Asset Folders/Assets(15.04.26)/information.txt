@@ -1,0 +1,7 @@
+This Asset folder is from "FMP-Concepts", dated 15/04/26.
+
+Packages:
+- ProBuilder
+- RobotKyle but I'm not using that for now so you can neglect that without issue
+
+The version of Unity the project is updated to is 6000.4.2f1.
