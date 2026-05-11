@@ -1,0 +1,5 @@
+Win screen shows up despite not collecting anything
+Object reference not set to an instance of an object
+PlayerUI.SetCountText () (at Assets/Scripts/PlayerUI.cs:23)
+PlayerUI.Start () (at Assets/Scripts/PlayerUI.cs:17)
+countText.text = "Count: 0 " + count.ToString();
